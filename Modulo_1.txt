@@ -2,7 +2,7 @@ Redes - 1 Modulo
 
 Algoritmo -> Sequencia de ações , semelhante à receita de um bolo, possui os ingredientes e as suas etapas para um produto final que neste caso, é o bolo.
 Vírgula Flutuante -> É um formato de representação digital de números racionais
-
+Internet -> Surgiu nos anos 60
 
 
 
