@@ -2,9 +2,20 @@ Redes - 1 Modulo
 
 Algoritmo -> Sequencia de ações , semelhante à receita de um bolo, possui os ingredientes e as suas etapas para um produto final que neste caso, é o bolo.
 Vírgula Flutuante -> É um formato de representação digital de números racionais
-Internet -> Surgiu nos anos 60
 
+Ip : è um numero formado por 4 octetos e que identifica um equuipamento numa rede, pode se ter repetidos em redes diferentes.
+Classes de Ip : A B C D E 
+Categoias de Ip : Ips Publicos , Privados e reservados
+Com 8 bites nao se pode escrever um octeto com um valor maior de 255 
+Mac Adress : Identificador único de um equipamento de rede, não se pode ser repetido.
+Subnet Mask : É um número de 32 bits usado em um IP para separar a parte correspondente à rede e aos hosts.
+Default Gateway : Porta do router
+Defina a rede quando o host é tudo 0
+Endereço Broadcast envia mensagens para todos na rede quando o host é tudo 1
+Um serviço sem ser orientado à conexão nao garante a entrega da mensagem. Ex: cartas de correio
+Um serviço orientado. Ex: Ftp
+Subnetting: Processo para divisão de uma rede em sub redes
 
-
-
-
+Internetworking: Capacidade de interligação de dispositivos e redes incompatíveis entre si.
+Internet (com "I") -> Rede especifica (mundial)
+internet (com "i") -> Abreviatura de Internetworking
