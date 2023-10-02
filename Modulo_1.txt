@@ -30,6 +30,9 @@ Modelo Osi e TCP/IP
 -> Camada Data Link : Mac address
 -> Camada Network : Endereçamento Ip
 
+Bit -> É a menor unidade de informação que pode ser amazenada ou transmitida, só pode ter dois valores: 1 e 0.
 
+Topologia Física (vai sair no teste, para que serve e o que é) -> É o posicionamento de vários componentes de uma rede. Os diferentes conectores representam os cabos físicos de rede e os nós representam os dispositivos físicos de rede (como por exemplo, switches) 
 
+Topologia Lógica (vai sair no teste, para que serve e o que é)-> Refere-se ao fluxo de dados através da rede, à maneira como os sinais agem sobre os meios e são transmitidos através da rede a partir de um dispositivo para outro sem interligação física. Ex: Broadcast
 
