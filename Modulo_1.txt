@@ -19,3 +19,17 @@ Subnetting: Processo para divisão de uma rede em sub redes
 Internetworking: Capacidade de interligação de dispositivos e redes incompatíveis entre si.
 Internet (com "I") -> Rede especifica (mundial)
 internet (com "i") -> Abreviatura de Internetworking
+
+Extranet -> É uma rede que permite acesso externo controlado, para negócios específicos ou propósitos educacionais.
+
+Intranet -> É uma rede privada de uso exclusivo de um determinado local, como por exemplo, a rede de uma empressa, que só pode ser acedida pelos seus utilizadores ou colaboradores internos.
+
+Socket -> Ligação entre dois processos.
+
+Modelo Osi e TCP/IP
+-> Camada Data Link : Mac address
+-> Camada Network : Endereçamento Ip
+
+
+
+
