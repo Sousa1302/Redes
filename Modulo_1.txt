@@ -16,7 +16,8 @@ Um serviço sem ser orientado à conexão nao garante a entrega da mensagem. Ex:
 Um serviço orientado. Ex: Ftp
 Subnetting: Processo para divisão de uma rede em sub redes
 Ports: Nas redes de computadores, uma porta ou número de porta é um número atribuído para identificar exclusivamente um terminal de conexão e direcionar dados para um serviço específico.
-O propósito das portas é para singularmente identificar aplicações e processos de um único computador e assim possibilitá-los a compartilhar uma única conexão física com uma rede de comutação de pacotes, como a internet. 
+O propósito das portas é para singularmente identificar  processos de um único computador e assim possibilitá-los a compartilhar uma única conexão física com uma rede de comutação de pacotes, como a internet. 
+Gateway: É um sistema ou equipamento cuja função básica é estabelecer a comunicação entre múltiplos ambientes. Com ele, é possível fazer a conexão entre equipamentos localizados em redes diferentes e que comuniquem através de padrões distintos.
 
 Internetworking: Capacidade de interligação de dispositivos e redes incompatíveis entre si.
 Internet (com "I") -> Rede especifica (mundial)
@@ -42,4 +43,18 @@ Repetidor -> Regenera o sinal
 Bridge -> Permite a Ligação entre duas tecnologias,  um dispositivo de rede que cria uma rede agregada a partir de várias redes de comunicações ou vários segmentos de rede.
 Switch -> é um dispositivo que simplesmente conecta todos os elementos da sua rede. Ele atua como sinaleiro ou unidade de controle para que computadores, impressoras, servidores e todos os outros tipos dispositivos possam se comunicar.
 router -> Serve para encaminhar redes 
+
+Saber relacionar qual o nivel que cada equipamento funciona 
+
+     Nivel           Equipamentos        Endereçamentos
+Trasport Layer  -> Trasport Gateway -> Port 
+Network Layer   -> Router           -> IP
+Data Link layer -> Bridge, Switch   -> Mac
+Physical layer  -> Repetidor, Hub 
+
+
+Host: é qualquer máquina ou computador conectado a uma rede, podendo oferecer informações, recursos, serviços e aplicações aos usuários ou outros nós na rede.
+
+
+
 
