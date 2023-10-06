@@ -3,7 +3,7 @@ Redes - 1 Modulo
 Algoritmo -> Sequencia de ações , semelhante à receita de um bolo, possui os ingredientes e as suas etapas para um produto final que neste caso, é o bolo.
 Vírgula Flutuante -> É um formato de representação digital de números racionais
 
-Ip : è um numero formado por 4 octetos e que identifica um equuipamento numa rede, pode se ter repetidos em redes diferentes.
+Ip : è um numero formado por 4 octetos e que identifica um equipamento numa rede, serve para encontrar uma rede , pode se ter repetidos em redes diferentes.
 Classes de Ip : A B C D E 
 Categoias de Ip : Ips Publicos , Privados e reservados
 Com 8 bites nao se pode escrever um octeto com um valor maior de 255 
@@ -15,6 +15,8 @@ Endereço Broadcast envia mensagens para todos na rede quando o host é tudo 1
 Um serviço sem ser orientado à conexão nao garante a entrega da mensagem. Ex: cartas de correio
 Um serviço orientado. Ex: Ftp
 Subnetting: Processo para divisão de uma rede em sub redes
+Ports: Nas redes de computadores, uma porta ou número de porta é um número atribuído para identificar exclusivamente um terminal de conexão e direcionar dados para um serviço específico.
+O propósito das portas é para singularmente identificar aplicações e processos de um único computador e assim possibilitá-los a compartilhar uma única conexão física com uma rede de comutação de pacotes, como a internet. 
 
 Internetworking: Capacidade de interligação de dispositivos e redes incompatíveis entre si.
 Internet (com "I") -> Rede especifica (mundial)
@@ -35,4 +37,9 @@ Bit -> É a menor unidade de informação que pode ser amazenada ou transmitida,
 Topologia Física (vai sair no teste, para que serve e o que é) -> É o posicionamento de vários componentes de uma rede. Os diferentes conectores representam os cabos físicos de rede e os nós representam os dispositivos físicos de rede (como por exemplo, switches) 
 
 Topologia Lógica (vai sair no teste, para que serve e o que é)-> Refere-se ao fluxo de dados através da rede, à maneira como os sinais agem sobre os meios e são transmitidos através da rede a partir de um dispositivo para outro sem interligação física. Ex: Broadcast
+
+Repetidor -> Regenera o sinal
+Bridge -> Permite a Ligação entre duas tecnologias,  um dispositivo de rede que cria uma rede agregada a partir de várias redes de comunicações ou vários segmentos de rede.
+Switch -> é um dispositivo que simplesmente conecta todos os elementos da sua rede. Ele atua como sinaleiro ou unidade de controle para que computadores, impressoras, servidores e todos os outros tipos dispositivos possam se comunicar.
+router -> Serve para encaminhar redes 
 
