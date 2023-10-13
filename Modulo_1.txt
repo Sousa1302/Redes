@@ -3,11 +3,11 @@ Redes - 1 Modulo
 Algoritmo -> Sequencia de ações , semelhante à receita de um bolo, possui os ingredientes e as suas etapas para um produto final que neste caso, é o bolo.
 Vírgula Flutuante -> É um formato de representação digital de números racionais
 
-Ip : è um numero formado por 4 octetos e que identifica um equipamento numa rede, serve para encontrar uma rede , pode se ter repetidos em redes diferentes.
+Ip : è um numero formado por 4 octetos e que identifica um equipamento numa rede, serve para encontrar uma rede , pode se ter repetidos em redes diferentes. (Lógica)
 Classes de Ip : A B C D E 
 Categoias de Ip : Ips Publicos , Privados e reservados
 Com 8 bites nao se pode escrever um octeto com um valor maior de 255 
-Mac Adress : Identificador único de um equipamento de rede, não se pode ser repetido.
+Mac Adress : Identificador único de um equipamento de rede, não se pode ser repetido. (Fisica)
 Subnet Mask : É um número de 32 bits usado em um IP para separar a parte correspondente à rede e aos hosts.
 Default Gateway : Porta do router
 Defina a rede quando o host é tudo 0
@@ -44,7 +44,6 @@ Bridge -> Permite a Ligação entre duas tecnologias,  um dispositivo de rede qu
 Switch -> é um dispositivo que simplesmente conecta todos os elementos da sua rede. Ele atua como sinaleiro ou unidade de controle para que computadores, impressoras, servidores e todos os outros tipos dispositivos possam se comunicar.
 router -> Serve para encaminhar redes 
 
-Saber relacionar qual o nivel que cada equipamento funciona 
 
      Nivel           Equipamentos        Endereçamentos
 Trasport Layer  -> Trasport Gateway -> Port 
@@ -52,8 +51,51 @@ Network Layer   -> Router           -> IP
 Data Link layer -> Bridge, Switch   -> Mac
 Physical layer  -> Repetidor, Hub 
 
+Cada host ou router na internet tem um endereco ip unico que codifica:
+Host: é qualquer máquina ou computador conectado a uma rede,mas tem de ter uma placa de rede,  podendo oferecer informações, recursos, serviços e aplicações aos usuários ou outros nós na rede.
+Rede
+Endereçoes Ip -> 32 bits
 
-Host: é qualquer máquina ou computador conectado a uma rede, podendo oferecer informações, recursos, serviços e aplicações aos usuários ou outros nós na rede.
+Ip pode ser protocolo e endereço 
+
+Classe A -> 1 byte (=8 bits) , para defenir a rede 
+Classe B -> 2 bytes (=16 bits) , para defenir a rede
+Classe C -> 3 bytes (=24 bits) , para defenir a rede
+
+Endereços especiais (reservados):
+|-----------------------------------------------------------------|
+| 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 |   --> This host
+|-----------------------------------------------------------------|
+| 0 0 ... 0 0 |              Host                                 |   --> A host in this Network
+|-----------------------------------------------------------------|
+| 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 |   --> Broadcast on the local network
+|-----------------------------------------------------------------|
+|    Network  | 1 1 1               ...                     1 1 1 |   --> Broadcast on a distance network
+|-----------------------------------------------------------------|
+|      127    |                   (Anything)                      |   --> Loopback 
+|-----------------------------------------------------------------|
+
+
+Endereçoes Privados:
+
+|------------------------------------------------------------|
+| Rede de Classe A       |   10.0.0.0   a   10.255.255.255   |
+|------------------------------------------------------------|
+| 16 Redes de Classe B   |   172.16.0.0   a  172.31.255.255  |
+|------------------------------------------------------------|
+| 256 Redes de Classe C  |   192.168.0.0  a  192.168.255.255 |
+|------------------------------------------------------------|
+
+
+
+Conteudos po teste:
+- Destinguir uma classe A da B da C
+- Saber relacionar qual o nivel que cada equipamento funciona 
+- Topologia Logica e Fisica
+
+
+
+
 
 
 
