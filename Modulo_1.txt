@@ -87,12 +87,22 @@ Endereçoes Privados:
 |------------------------------------------------------------|
 
 
+Endereçoes privados nao circulam na internet.
+
+Default Gateway -> Endereço do router
+Mascara de Rede / Subnet Mask -> Separa a rede do host ; Rede tudo 1 ; Host tudo 0 
+O switch trabalha com mac adrress e nao ips
+
+
+
+
+
 
 Conteudos po teste:
 - Destinguir uma classe A da B da C
 - Saber relacionar qual o nivel que cada equipamento funciona 
 - Topologia Logica e Fisica
-
+- O que é a mascara e o que é o default gateway
 
 
 
