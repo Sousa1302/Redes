@@ -93,11 +93,11 @@ Default Gateway -> Endereço do router
 Mascara de Rede / Subnet Mask -> Separa a rede do host ; Rede tudo 1 ; Host tudo 0 
 O switch trabalha com mac adrress e nao ips
 
-
-
-
-
-
+Endereco de rede , identifica a rede. Quando o host é tudo 0.
+Endereco Broadcast , envia uma mensagem. Quando o host é tudo 1.
+Endreço util -> Endreço para configuracao de maquinas 
+Endereço de rede e broadcast não configuram máquinas 
+Mascara de rede -> Separa a rede do host, rede é tudo 1 e host é tudo 0
 
 
 
@@ -108,7 +108,9 @@ Conteudos po teste:
 - Topologia Logica e Fisica
 - O que é a mascara e o que é o default gateway
 - Endereco de rede , endereco broadcast 
-
+- Classes
+- Divisao da rede e do host num endereço
+- 
 
 
 
