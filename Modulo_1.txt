@@ -110,9 +110,19 @@ Conteudos po teste:
 - Endereco de rede , endereco broadcast 
 - Classes
 - Divisao da rede e do host num endereço
-- 
+- Mascara de Rede
+- Endereco util
 
 
+
+Exercício Endreço Ip -> 172.16.200.10
+
+Tipo da rede -> Classe B 
+Rede -> 172.16.0.0
+First -> 172.16.0.1
+Last -> 172.16.255.254
+Broadcast -> 172.16.255.255
+Mask -> 255.255.0.0 
 
 
 
