@@ -99,7 +99,12 @@ Endreço util -> Endreço para configuracao de maquinas
 Endereço de rede e broadcast não configuram máquinas 
 Mascara de rede -> Separa a rede do host, rede é tudo 1 e host é tudo 0
 
+Equipamentos passivos -> Nao sao alimentados de energia    EX: Cabos de cobre ; UPS
+Equipamentos ativos -> Sao equipamentos alimentados por energia    EX: Computadores
 
+Categoria 5 (100 mgbits) era utilizado antigamente.
+Categoria 5e (gigabits)
+Categoria 6 (gigabits) utilizado atualmente.
 
 
 Conteudos po teste:
@@ -112,6 +117,15 @@ Conteudos po teste:
 - Divisao da rede e do host num endereço
 - Mascara de Rede
 - Endereco util
+- O que sao equipamentos passivos e ativos 
+- Cabos Par Entrançado
+- Cabos UTP / SUTP / FTP / STP / SSTP 
+- Categoria 1, 2, 3, 4, 5, 5e, 6, 7
+- RJ45
+- 
+
+
+
 
 
 
