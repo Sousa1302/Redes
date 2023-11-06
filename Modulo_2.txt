@@ -1,0 +1,8 @@
+Roteamento Estático e Dinâmico:
+-> A diferença entre o roteamento estático e o dinâmico é que as rotas estáticas são inseridas manualmente na tabela de roteamento pelos administradores de rede. Já o roteamento dinâmico utiliza protocolos de roteamentos que ajustam automaticamente as rotas
+
+Roteamento Estático: Melhor para redes pequenas, nao precisa de grande processamento e nao ocupa largura de banda 
+Roteamento Dinâmico: Melhor para redes maiores, está sempre a atualizar as suas rotas
+
+Next hop: É um termo de routing que se refere ao endereço do router mais proximo. É utilizado num conjunto de routers conectados entre si e é o próximo endereço possivel para o qual se pode enviar pacotes.
+
