@@ -10,6 +10,20 @@ Next hop: É um termo de routing que se refere ao endereço do router mais proxi
 
 Firmware: É um tipo de software que é armazenado em um dispositivo eletrônico e que controla o funcionamento deste dispositivo. Ele é responsável por gerenciar as funções básicas do hardware, como o processamento de dados, a comunicação com outros dispositivos e a entrada e saída de dados.
 
+CMOS : É uma pequena quantidade de memória em uma placa-mãe do computador que armazena as configurações da BIOS (Basic Input/Output System — Sistema Básico de Entrada/Saída).
+
+POST : Quando o computador é inicializado a BIOS executa o POST, este é um programa de diagnostico embutido que verifica o hardware, assegurando o funcionamento correto. O POST é executado muito rapidamente, e normalmente não é notado.
+
+Kernel : É o núcleo do sistema operacional. Trata-se do software que reside na memória e instrui a CPU sobre o que fazer.
+
+-> Sequencia de arranque
+
+Sistema operacional : É um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de ficheiros a programas de terceiros, estabelecendo a interface entre o computador e o utilizador.
+
+
+
+
+
 
 
 
