@@ -22,7 +22,7 @@ Sistema operativo : É um software, ou conjunto de softwares, cuja função é a
 
 
 O que vai sair no teste:
--> Sistema Operacional
+-> Sistema Operativo
 -> 
 
 
