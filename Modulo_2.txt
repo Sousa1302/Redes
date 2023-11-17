@@ -16,9 +16,7 @@ POST : Quando o computador é inicializado a BIOS executa o POST, este é um pro
 
 Kernel : É o núcleo do sistema operativo, coração do computador. Trata-se do software que reside na memória e instrui a CPU sobre o que fazer.
 
--> Sequencia de arranque
-
-Sistema operativo : É um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de ficheiros a programas de terceiros, estabelecendo a interface entre o computador e o utilizador.
+Sistema operativo : É um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de ficheiros a programas de terceiros, estabelecendo a interface entre o computador e o utilizador. (kernel)
 
 Interpretador de comandos (Shell) : É o programa responsável em interpretar as instruções enviadas pelo utilizador e os seus programas ao sistema operativo (o kernel). Ele é quem executa comandos lidos do dispositivo de entrada padrão (teclado) ou de um ficheiro executável.
 
@@ -34,6 +32,7 @@ O que vai sair no teste:
 -> Interpretador de comandos (shell)
 -> Sistema de ficheiros
 -> Kernel
+-> Sequencia de arranque
 
 
 
