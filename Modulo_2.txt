@@ -14,7 +14,7 @@ CMOS : É uma pequena quantidade de memória em uma placa-mãe do computador que
 
 POST : Quando o computador é inicializado a BIOS executa o POST, este é um programa de diagnostico embutido que verifica o hardware, assegurando o funcionamento correto. O POST é executado muito rapidamente, e normalmente não é notado.
 
-Kernel : É o núcleo do sistema operacional. Trata-se do software que reside na memória e instrui a CPU sobre o que fazer.
+Kernel : É o núcleo do sistema operativo, coração do computador. Trata-se do software que reside na memória e instrui a CPU sobre o que fazer.
 
 -> Sequencia de arranque
 
