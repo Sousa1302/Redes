@@ -18,7 +18,7 @@ Kernel : É o núcleo do sistema operacional. Trata-se do software que reside na
 
 -> Sequencia de arranque
 
-Sistema operacional : É um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de ficheiros a programas de terceiros, estabelecendo a interface entre o computador e o utilizador.
+Sistema operativo : É um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de ficheiros a programas de terceiros, estabelecendo a interface entre o computador e o utilizador.
 
 
 O que vai sair no teste:
