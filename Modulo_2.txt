@@ -28,7 +28,7 @@ Memória principal (RAM) :
 
 Memória Virtual : Faz funcionar aplicações que necessitam de mais memória do que a memória RAM existente no sistema. Expande a capacidade de memória dos sistemas usando espaço em disco para armazenar partes menos usadas dos programas, liberando espaço na memória RAM para processos mais ativos.
 
-
+Formatação Física : É a preparação inicial de um dispositivo de armazenamento , organizando fisicamente o disco e definindo as suas estruturas para gravar dados.
 
 
 
@@ -42,6 +42,6 @@ O que vai sair no teste:
 -> Funções sistema operativo ( Tabela da pag 17 )
 -> Memória Principal (RAM)
 -> Memória Virtual
-
-
+-> Formatação Física 
+-> 
 
