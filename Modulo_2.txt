@@ -22,7 +22,7 @@ Interpretador de comandos (Shell) : É o programa responsável em interpretar as
 
 Sistema de Ficheiros : É um conjunto de regras e estruturas usadas para organizar, gerenciar e armazenar informações em HDDs, módulos SSDs, CDs, DVDs, pen drives e cartões de memória. São essas regras que determinam como os dados serão gravados no dispositivo de armazenamento.
 
-
+Processo : Define um conjunto de operações, a ser executado pelo processador, e está delimitado a um espaço de endereçamento
 
 
 
