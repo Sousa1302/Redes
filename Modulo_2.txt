@@ -1,4 +1,4 @@
-Roteamento Estático e Dinâmico:
+ãoRoteamento Estático e Dinâmico:
 -> A diferença entre o roteamento estático e o dinâmico é que as rotas estáticas são inseridas manualmente na tabela de roteamento pelos administradores de rede. Já o roteamento dinâmico utiliza protocolos de roteamentos que ajustam automaticamente as rotas
 
 Roteamento Estático: Melhor para redes pequenas, nao precisa de grande processamento e nao ocupa largura de banda 
@@ -30,7 +30,8 @@ Memória Virtual : Faz funcionar aplicações que necessitam de mais memória do
 
 Formatação Física : É a preparação inicial de um dispositivo de armazenamento , organizando fisicamente o disco e definindo as suas estruturas para gravar dados.
 
-
+Gestão de ficheiros fala-se essencialmente da gestão da memória secundária.
+Gestão de Memória Principal fala-se da RAM.
 
 
 O que vai sair no teste:
